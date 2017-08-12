@@ -1,4 +1,3 @@
-# FirstGitRepo 
-learning GIT commands 
+Learning GIT commands from Desktop GIT version
 
 
