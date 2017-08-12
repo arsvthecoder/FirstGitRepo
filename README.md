@@ -1,0 +1,4 @@
+# FirstGitRepo 
+learning GIT commands 
+
+
